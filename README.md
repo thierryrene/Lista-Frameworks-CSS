@@ -1,8 +1,6 @@
 Lista de Frameworks CSS
 ==================
 
-<img src="http://i2.wp.com/websocialdev.com/wp-content/uploads/2014/03/lista_framework_css_websocialdev.png">
-
 Lista com os principais frameworks css para desenvolvimento front-end de websites. Essa lista também é originada de um post do blog Web Social Dev (http://websocialdev.com/lista-com-os-melhores-frameworks-css/), disponiibilizada no GitHub para facilitar a atualização e compartilhamento entre as comunidade de desenvolvimento.
 
 <h2><a href="http://foundation.zurb.com/index.html">Foundation 5</a></h2>
